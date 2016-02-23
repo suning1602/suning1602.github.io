@@ -3,43 +3,47 @@ body {
 	padding-bottom: 20px;
 }
 .sn-jumbotron-img {
+	padding-top: 140px;
+	padding-bottom: 140px;
 	color: white;
-	min-height: 500px;
 	background-image: url("../images/s4.jpg");
 	background-size: cover;
 	background-position: center;
-	h1 {
-		margin: 60px 0;
-	}
+	
 }
 .sn-section {
 	margin: 60px 0;
 }
-.sn-img-circle {
-	width: 300px;
-	height: 300px;
+.sn-block {
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
-.sn-heart {
-	padding-top: 20px;
-	padding-bottom: 20px;
+.sn-text {
+	h1 {
+		margin-bottom: 60px;
+	}
 	h2 {
-		color: #6D59B0;
+		
 	}
 	h3 {
-		margin-top: 40px;
-		color: rgb(252, 79, 79);
+		margin-bottom: 60px;
 	}
+	p {
+		font-size: 21px;
+	}
+}
+.sn-color1 {
+	color: #6D59B0;
+}
+.sn-color2 {
+	color: rgb(252, 79, 79);
 }
 .sn-jumbotron-danger {
 	background-color: rgb(252, 79, 79);
 	color: white;
-	h1 {
-		padding: 30px 0;
-	}
 	span {
 		color: yellow;
-		font-size: 32px;
-		margin-bottom: 20px;
+		font-size: 24px;
 	}
 }
 .sn-ad-img {
@@ -65,4 +69,18 @@ body {
 	width: 600px;
 	height: 600px;
 	overflow:hidden;
+}
+@media (max-width: 768px) {
+	.sn-block {
+		padding-top: 80px;
+		padding-bottom: 80px;
+	}
+	.sn-text {
+		h1 {
+			margin-bottom: 30px;
+		}
+		p {
+			font-size: 18px;
+		}
+	}
 }
