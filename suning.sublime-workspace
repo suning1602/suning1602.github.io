@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ukwim",
+				"uk-width-medium-1-2 	UIkit class"
+			],
+			[
+				"datama",
+				"data-uk-grid-margin 	 UIkit uk-data"
+			],
+			[
+				"ukpa",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"ukgrids",
+				"uk-grid-width-small-1-2 	UIkit class"
+			],
+			[
+				"ukg",
+				"uk-grid-width-1-2 	UIkit class"
+			],
+			[
+				"ukrig",
+				"uk-float-right 	UIkit class"
+			],
+			[
+				"ukbutt",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"ukwid",
+				"uk-width-3-4 	UIkit class"
+			],
+			[
+				"ukwidth1",
+				"uk-width-1-4 	UIkit class"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"ukbu",
+				"uk-button-danger 	UIkit class"
+			],
+			[
+				"ukmo",
+				"uk-modal-dialog 	UIkit class"
+			],
+			[
+				"ma",
+				"maxlength	Attr"
+			],
+			[
+				"ukwidthsm",
+				"uk-width-small-1-2 	UIkit class"
+			],
+			[
+				"uk-widthme",
+				"uk-width-medium-1-3 	UIkit class"
+			],
+			[
+				"fig",
+				"figcaption	Tag"
+			],
+			[
+				"ukgridwi",
+				"uk-grid-width-1-4 	UIkit class"
+			],
+			[
+				"ukcenter",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"ukprim",
+				"uk-button-primary 	UIkit class"
+			],
+			[
+				"uk-w",
+				"uk-width-1-3 	UIkit class"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"uktab",
+				"uk-table 	UIkit class"
+			],
+			[
+				"ukpane",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"dataukgr",
+				"data-uk-grid-margin 	 UIkit uk-data"
+			],
+			[
+				"ukconta",
+				"uk-container 	UIkit class"
+			],
+			[
+				"ukoff",
+				"uk-offcanvas 	UIkit class"
+			],
+			[
+				"ukcon",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"ukp",
+				"uk-panel-title 	UIkit class"
+			],
+			[
+				"ukwidthl1",
+				"uk-width-large-1-3 	UIkit class"
+			],
+			[
+				"ukwidthme1",
+				"uk-width-medium-1-3 	UIkit class"
+			],
+			[
+				"ukwidth-1-",
+				"uk-width-1-3 	UIkit class"
+			],
+			[
+				"ukhead",
+				"uk-panel-header 	UIkit class"
+			],
+			[
+				"ukpanel",
+				"uk-panel-title 	UIkit class"
+			],
+			[
+				"uktetc",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"ukpanelb",
+				"uk-panel-box 	UIkit class"
+			],
+			[
+				"ukpan",
+				"uk-panel 	UIkit class"
+			],
+			[
+				"dataukg",
+				"data-uk-grid-margin 	 UIkit uk-data"
+			],
+			[
+				"uklarg",
+				"uk-text-large 	UIkit class"
+			],
+			[
+				"ukmid",
+				"uk-text-middle 	UIkit class"
+			],
+			[
+				"uktextmed",
+				"uk-text-center-medium 	UIkit class"
+			],
+			[
+				"uk-icon-di",
+				"uk-icon-diamond 	UIkit class"
+			],
+			[
+				"ukicon",
+				"uk-icon-large 	UIkit class"
+			],
+			[
+				"uktextc",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"ukgridme",
+				"uk-grid-width-medium-1-3 	UIkit class"
+			],
+			[
+				"ukpositi",
+				"uk-position-relative 	UIkit class"
+			],
+			[
+				"ukcen",
+				"uk-text-center 	UIkit class"
+			],
+			[
+				"uk-conta",
+				"uk-container-center 	UIkit class"
+			],
+			[
+				"uk-hidd",
+				"uk-hidden-small 	UIkit class"
+			],
+			[
+				"uk-hi",
+				"uk-hidden-small 	UIkit class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/less/suning.less",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "pack ins",
+		"selected_items":
+		[
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/guangyuan/Documents/workspace/suning1602.github.io",
+		"/Users/guangyuan/Documents/workspace/suning1602.github.io/static",
+		"/Users/guangyuan/Documents/workspace/suning1602.github.io/static/css",
+		"/Users/guangyuan/Documents/workspace/suning1602.github.io/static/less"
+	],
+	"file_history":
+	[
+		"/Users/guangyuan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/static/less/mycv.less",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/resume/resume_editor.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/static/javascript/mycv.js",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/resume/resume_home.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/resume/resume_handler.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_user.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/snippet/sidebar.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/allauth/account/login.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/allauth/account/password_reset.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/allauth/account/password_reset_from_key.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/allauth/account/signup.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/cv_auth/user_home.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_base.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/cv_auth/user_logout.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/cv_auth/user_settings.html",
+		"/Users/guangyuan/Downloads/style.less",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_main.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_member.html",
+		"/Users/guangyuan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/main/index.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_member_base.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/bases/uikit_main_base.html",
+		"/Users/guangyuan/Documents/workspace/mycv/mycv/templates/untitled.html",
+		"/Users/guangyuan/Documents/uikit_cv/user.html",
+		"/Users/guangyuan/Documents/uikit_cv/less/cv.less",
+		"/Users/guangyuan/Documents/uikit_cv/signup.html",
+		"/Users/guangyuan/Documents/uikit_cv/main.html",
+		"/Users/guangyuan/Documents/AR_Images/ai_script/ar_gen_key.js",
+		"/Users/guangyuan/Downloads/jquery-1.12.0.js",
+		"/Users/guangyuan/Documents/uikit_cv/js/app.js",
+		"/Users/guangyuan/Documents/uikit_cv/js/particles.js",
+		"/Users/guangyuan/Downloads/particles.js-1.1.0/demo/css/style.css",
+		"/Users/guangyuan/Documents/workspace/ARAnimals/static/less/ar.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" target=\"_blank\" ",
+			"      \n",
+			"sn-heart",
+			"sn-section",
+			"sn-break",
+			"user_home",
+			"resume-content",
+			"		\n",
+			"Name",
+			".id",
+			"id",
+			"resume_",
+			"btn_del_resume",
+			"cv-del-filename",
+			"new-resume",
+			"bar",
+			"error",
+			"button",
+			"submit",
+			"login_form",
+			"cv-match-icon",
+			"cv-panel",
+			"cv-side-nav",
+			"navbar-nav-height",
+			"v-side-nav",
+			"cv-side-user",
+			"cv-nav-login",
+			"Settings",
+			"block",
+			"uk-activ",
+			"uk-active",
+			"indent",
+			"tab",
+			"ABCD",
+			"  \n",
+			"%}\n",
+			"cv-sidebar",
+			"$(",
+			"cv-main-txt",
+			"distance"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			".pk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8282,
+								8282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/less/suning.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "suning.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
